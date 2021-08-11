@@ -46,3 +46,4 @@ C:\Users\marye\Desktop\Azure AD Challenge\AzureADChallenge\AzureADChallenge\obj\
 C:\Users\marye\Desktop\Azure AD Challenge\AzureADChallenge\AzureADChallenge\obj\Debug\netcoreapp3.1\AzureADChallenge.dll
 C:\Users\marye\Desktop\Azure AD Challenge\AzureADChallenge\AzureADChallenge\obj\Debug\netcoreapp3.1\AzureADChallenge.pdb
 C:\Users\marye\Desktop\Azure AD Challenge\AzureADChallenge\AzureADChallenge\obj\Debug\netcoreapp3.1\AzureADChallenge.genruntimeconfig.cache
+C:\Users\marye\Desktop\Azure AD Challenge\AzureADChallenge\AzureADChallenge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
