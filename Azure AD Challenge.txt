@@ -1,0 +1,6 @@
+Application (client) ID:
+b33c5303-8cb2-416a-b0ef-b19daff437dd
+
+client secret value: k7_7Dt0_wI2gV8OHSSc~yM2ZL7.hulRqOW
+
+Id del secreto: b67d0bf2-3470-46f8-86dc-71124d0cd93c
